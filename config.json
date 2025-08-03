@@ -84,6 +84,13 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "fantaiying": {
+      "api": "xn--sss604efuw.com/tv/"
+      "name": "饭太硬"
+    },
+    "oktop": {
+      "api": "http://ok321.top/tv"
+      "name": "OK吊炸天"
   }
 }
